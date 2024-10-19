@@ -56,7 +56,37 @@ less
 Kopiera kod
 
 
+## Hur du använder programmet
 
+1. **Starta programmet**: När applikationen startas, visas en meny med de tillgängliga alternativen.
+2. **Välj ett alternativ**: Ange ett nummer som motsvarar den önskade funktionen:
+   - `1` för att parkera ett fordon.
+   - `2` för att hämta ett fordon.
+   - `3` för att flytta ett fordon till en annan parkeringsplats.
+   - `4` för att söka ett fordon via dess registreringsnummer.
+   - `5` för att visa aktuell parkeringsstatus.
+   - `6` för att avsluta programmet.
+3. **Parkera ett fordon**: När du parkerar, måste du ange fordonstyp (`BIL` för bil eller `MC` för motorcykel) och ett giltigt registreringsnummer.
+4. **Hämta ett fordon**: För att hämta ett fordon, ange registreringsnumret och systemet hittar fordonet och markerar platsen som ledig igen.
+5. **Flytta ett fordon**: Ange den aktuella och den nya parkeringsrutan för att flytta ett fordon.
+6. **Sök ett fordon**: Ange registreringsnumret så visar systemet vilken ruta fordonet står på om det finns i garaget.
 
-Den här README-filen ger en översikt och gör det lättare för andra att förstå och använda ditt projekt.
+## Exempel på användning
+
+```plaintext
+Välkommen till Prague Parking
+Antal parkeringsplatser: 100
+Timpris för bil: 20,00 kr
+Timpris för motorcykel: 10,00 kr
+
+Prague Parking System
+1. Parkera Fordon
+2. Hämta Fordon
+3. Flytta Fordon
+4. Sök Fordon på Reg nr
+5. Visa aktuell parkerings vy
+6. Avsluta
+Välj ett alternativ: 
+
+Den här README-filen ger en översikt och gör det lättare för andra att förstå och använda projektet.
 
