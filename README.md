@@ -36,7 +36,7 @@ Detta projekt är en del av en labbuppgift och sparar ingen data när applikatio
 
 
 
-## Hur du använder programmet
+## Användning
 
 1. **Starta programmet**: När applikationen startas, visas en meny med de tillgängliga alternativen.
 2. **Välj ett alternativ**: 
