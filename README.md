@@ -69,3 +69,30 @@ Då blir länken till den rubriken:
 markdown
 Kopiera kod
 [Funktioner](#funktioner)
+
+
+### Förklaring av sektionerna:
+
+1. **Projektets titel och beskrivning**: En kort introduktion om vad projektet gör och varför det är viktigt.
+  
+2. **Innehållsförteckning**: Hjälper användare att navigera i README-filen, särskilt om den är lång.
+
+3. **Introduktion**: Kortfattad beskrivning av vad systemet gör och dess syfte.
+
+4. **Funktioner**: En lista över vad systemet kan göra (som att parkera, flytta och hämta fordon).
+
+5. **Installation**: Instruktioner för hur man ställer in projektet på sin egen maskin. I det här fallet hur man installerar och kör en C#-applikation med .NET Core.
+
+6. **Användning**: Beskriver hur användaren ska interagera med systemet och vilka menyer och funktioner som finns. Exempel på interaktion visar hur systemet fungerar i praktiken.
+
+7. **Bidra till projektet**: Förklarar hur andra kan bidra till projektet genom att forka, skapa nya branches och skicka in pull requests.
+
+8. **Licens**: Licensinformation, i det här fallet MIT-licensen.
+
+### Tips:
+- **Installation**: Om projektet kräver tredjepartsbibliotek eller specifika inställningar, inkludera det i installationsavsnittet.
+- **Användningsexempel**: Lägg till exempel på hur applikationen fungerar med typiska användningsfall.
+- **Kontributionsriktlinjer**: Om du vill uppmuntra bidrag, se till att tydligt beskriva hur man kan bidra.
+
+Den här README-filen ger en översikt och gör det lättare för andra att förstå och använda ditt projekt.
+
