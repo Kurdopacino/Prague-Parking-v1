@@ -56,9 +56,6 @@ Detta projekt är licensierat under MIT-licensen. Se filen LICENSE för mer info
 less
 Kopiera kod
 
-### Hur länkarna fungerar
-- I markdown skapas interna länkar med hjälp av rubrikens namn, men alla mellanslag i rubrikens text ersätts med bindestreck (`-`) och alla bokstäver omvandlas till små bokstäver.
-- Rubriken `## Introduktion` blir till exempel `#introduktion` i länken, så innehållsförteckningen ska ha en länk i formatet `[Introduktion](#introduktion)`.
 
 
 
