@@ -1,7 +1,5 @@
 # Prague Parking System V1
 
-# Prague Parking System V1
-
 Detta är ett enkelt parkeringshanteringssystem utvecklat i C# för att hantera en parkeringsplats där bilar och motorcyklar kan parkeras. Systemet stöder parkering, förflyttning, sökning och hämtning av fordon.
 
 ## Innehållsförteckning
