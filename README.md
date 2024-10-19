@@ -48,7 +48,7 @@ Ange ett nummer som motsvarar den önskade funktionen:
    - `5` för att visa aktuell parkeringsstatus.
    - `6` för att avsluta programmet.
 
-3. **Parkera ett fordon**: När du parkerar, måste du ange fordonstyp (`BIL` för bil eller `MC` för motorcykel) och ett giltigt registreringsnummer.
+3. **Parkera ett fordon**: När du parkerar, måste du ange fordonstyp (BIL för bil eller MC för motorcykel) och ett giltigt registreringsnummer.
 4. **Hämta ett fordon**: För att hämta ett fordon, ange registreringsnumret och systemet hittar fordonet och markerar platsen som ledig igen.
 5. **Flytta ett fordon**: Ange den aktuella och den nya parkeringsrutan för att flytta ett fordon.
 6. **Sök ett fordon**: Ange registreringsnumret så visar systemet vilken ruta fordonet står på om det finns i garaget.
