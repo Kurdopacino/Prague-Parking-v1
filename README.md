@@ -34,3 +34,38 @@ Detta projekt är en del av en labbuppgift och sparar ingen data när applikatio
 1. Klona detta repository till din lokala dator:
    ```bash
    git clone https://github.com/användarnamn/PragueParking.git
+
+Steg för att bidra:
+Forka projektet
+Skapa en ny branch:
+bash
+Kopiera kod
+git checkout -b feature-branch
+Gör dina ändringar och commit:
+bash
+Kopiera kod
+git commit -m "Beskrivning av funktionen"
+Skjut upp ändringarna till din branch:
+bash
+Kopiera kod
+git push origin feature-branch
+Skapa en pull request
+Licens
+Detta projekt är licensierat under MIT-licensen. Se filen LICENSE för mer information.
+
+less
+Kopiera kod
+
+### Hur länkarna fungerar
+- I markdown skapas interna länkar med hjälp av rubrikens namn, men alla mellanslag i rubrikens text ersätts med bindestreck (`-`) och alla bokstäver omvandlas till små bokstäver.
+- Rubriken `## Introduktion` blir till exempel `#introduktion` i länken, så innehållsförteckningen ska ha en länk i formatet `[Introduktion](#introduktion)`.
+
+### Exempel på hur det fungerar:
+Om du har rubriken:
+```markdown
+## Funktioner
+Då blir länken till den rubriken:
+
+markdown
+Kopiera kod
+[Funktioner](#funktioner)
