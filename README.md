@@ -36,10 +36,6 @@ Detta projekt är en del av en labbuppgift och sparar ingen data när applikatio
 
 
 
-less
-Kopiera kod
-
-
 ## Hur du använder programmet
 
 1. **Starta programmet**: När applikationen startas, visas en meny med de tillgängliga alternativen.
@@ -71,6 +67,9 @@ Prague Parking System
 5. Visa aktuell parkerings vy
 6. Avsluta
 Välj ett alternativ: 
+
+## Licens
+Detta projekt är open-source och kan modifieras och distribueras fritt.
 
 Den här README-filen ger en översikt och gör det lättare för andra att förstå och använda projektet.
 
