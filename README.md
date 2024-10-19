@@ -69,6 +69,7 @@ Prague Parking System
 5. Visa aktuell parkerings vy
 6. Avsluta
 Välj ett alternativ: 
+```
 
 ## Licens
 Detta projekt är open-source och kan modifieras och distribueras fritt.
