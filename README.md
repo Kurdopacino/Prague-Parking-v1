@@ -32,7 +32,7 @@ Detta projekt är en del av en labbuppgift och sparar ingen data när applikatio
 ### Steg
 1. Klona detta repository till din lokala dator:
    ```bash
-   git clone https://github.com/användarnamn/PragueParking.git
+   git clone https://github.com/Kurdopacino/Prague-Parking-v1.git
 
 
 
