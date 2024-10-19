@@ -39,13 +39,15 @@ Detta projekt är en del av en labbuppgift och sparar ingen data när applikatio
 ## Hur du använder programmet
 
 1. **Starta programmet**: När applikationen startas, visas en meny med de tillgängliga alternativen.
-2. **Välj ett alternativ**: Ange ett nummer som motsvarar den önskade funktionen:
+2. **Välj ett alternativ**: 
+Ange ett nummer som motsvarar den önskade funktionen:
    - `1` för att parkera ett fordon.
    - `2` för att hämta ett fordon.
    - `3` för att flytta ett fordon till en annan parkeringsplats.
    - `4` för att söka ett fordon via dess registreringsnummer.
    - `5` för att visa aktuell parkeringsstatus.
    - `6` för att avsluta programmet.
+
 3. **Parkera ett fordon**: När du parkerar, måste du ange fordonstyp (`BIL` för bil eller `MC` för motorcykel) och ett giltigt registreringsnummer.
 4. **Hämta ett fordon**: För att hämta ett fordon, ange registreringsnumret och systemet hittar fordonet och markerar platsen som ledig igen.
 5. **Flytta ett fordon**: Ange den aktuella och den nya parkeringsrutan för att flytta ett fordon.
