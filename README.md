@@ -34,23 +34,7 @@ Detta projekt är en del av en labbuppgift och sparar ingen data när applikatio
    ```bash
    git clone https://github.com/användarnamn/PragueParking.git
 
-Steg för att bidra:
-Forka projektet
-Skapa en ny branch:
-bash
-Kopiera kod
-git checkout -b feature-branch
-Gör dina ändringar och commit:
-bash
-Kopiera kod
-git commit -m "Beskrivning av funktionen"
-Skjut upp ändringarna till din branch:
-bash
-Kopiera kod
-git push origin feature-branch
-Skapa en pull request
-Licens
-Detta projekt är licensierat under MIT-licensen. Se filen LICENSE för mer information.
+
 
 less
 Kopiera kod
