@@ -6,7 +6,7 @@ Detta är ett enkelt parkeringshanteringssystem utvecklat i C# för att hantera 
 - [Introduktion](#introduktion)
 - [Funktioner](#funktioner)
 - [Installation](#installation)
-- [Användning](#användning)
+- [Anvandning](#anvandning)
 - [Licens](#licens)
 
 ## Introduktion
